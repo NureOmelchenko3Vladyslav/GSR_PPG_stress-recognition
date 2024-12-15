@@ -22,6 +22,9 @@ python divide.py
 Calculate HRV:
 python calculate_hrv.py
 
+Select features:
+python feature_selection_rf.py
+
 Normalize data:
 python normalize_and_filter.py
 
