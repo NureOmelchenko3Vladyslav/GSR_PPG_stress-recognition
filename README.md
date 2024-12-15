@@ -15,11 +15,15 @@ pip install -r requirements.txt
 # Usage
 Preprocess data:
 python preprocessing.py
+
 Divide data into phases:
 python divide.py
+
 Calculate HRV:
 python calculate_hrv.py
+
 Normalize data:
 python normalize_and_filter.py
+
 Perform classification:
 python classification.py
